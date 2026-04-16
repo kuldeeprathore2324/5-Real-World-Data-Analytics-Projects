@@ -26,4 +26,4 @@ This project demonstrates integration of live API data using Python and visualiz
 2. Load generated CSV into Power BI
 3. Open .pbix file to view dashboard
 
-   [Project Link](https://www.linkedin.com/posts/abdulla-ansari-62910b296_powerbi-python-dataanalytics-activity-7417555009602768896-lNjs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeQOcEBFlNJZGNY1nwU2TD-gT_TpFFtRuk)
+   [Project Link](https://www.linkedin.com/posts/kuldeep-rathore-161030301_powerbi-dataanalytics-datavisualization-ugcPost-7450625330203000832-YHqd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0Rg9kBZMCKZ_a3x81pzck9MSu263rlVbc)
