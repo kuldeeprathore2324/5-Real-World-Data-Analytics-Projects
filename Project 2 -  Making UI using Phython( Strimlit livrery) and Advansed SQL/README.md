@@ -27,4 +27,4 @@ This project integrates Python (Streamlit) with SQL to build an interactive Inve
 3. Run the Streamlit app using:
    streamlit run app.py
    
-[Project link](https://www.linkedin.com/posts/abdulla-ansari-62910b296_postgresql-sql-python-activity-7415072449714692096-cT-W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeQOcEBFlNJZGNY1nwU2TD-gT_TpFFtRuk)
+[Project link]()
