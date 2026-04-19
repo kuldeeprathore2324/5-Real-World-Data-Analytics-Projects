@@ -28,4 +28,4 @@ This project focuses on performing Exploratory Data Analysis (EDA) on global can
 3. Ensure required libraries are installed
 
 
-[Projects link](https://www.linkedin.com/posts/abdulla-ansari-62910b296_eda-dataanalytics-python-activity-7413452947654619136-5ViH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeQOcEBFlNJZGNY1nwU2TD-gT_TpFFtRuk)
+[Projects link](https://www.linkedin.com/posts/kuldeep-rathore-161030301_dataanalytics-python-eda-activity-7451349775926345728-dyim?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0Rg9kBZMCKZ_a3x81pzck9MSu263rlVbc)
