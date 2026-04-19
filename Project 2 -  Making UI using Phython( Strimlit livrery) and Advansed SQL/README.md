@@ -27,4 +27,4 @@ This project integrates Python (Streamlit) with SQL to build an interactive Inve
 3. Run the Streamlit app using:
    streamlit run app.py
    
-[Project link]()
+[Project link](https://www.linkedin.com/posts/kuldeep-rathore-161030301_dataanalytics-supplychain-python-activity-7451727904843145216-Mtby?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0Rg9kBZMCKZ_a3x81pzck9MSu263rlVbc)
